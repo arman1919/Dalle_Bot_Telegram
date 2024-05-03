@@ -1,0 +1,4 @@
+pyTelegramBotAPI==3.7.7  
+schedule==1.1.0  
+requests==2.25.1  
+azure-ai-textanalytics==5.1.0  # Assuming you need this for AzureOpenAI  
